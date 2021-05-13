@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
-        "Skinet"
+        "Skinet",
+        "Toastr"
     ],
     "angular.enable-strict-mode-prompt": false
 }
